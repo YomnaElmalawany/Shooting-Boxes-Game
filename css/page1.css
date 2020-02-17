@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/pg1_bg2.jpg");
+    /* background-color:lightyellow ; */
+}
+
+.titleCol{
+    color:teal; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    color: gray;
+}
+
+.goBtn{
+    border-radius: 30%;
+}
+
+
+.h5_instr{
+    color: rosybrown;
+}
